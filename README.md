@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on web and mobile application using ReactJS and React native. It's a platform designed to create equal job opportunities for anyone with the software skills to the job
 - 🌱 I’m currently learning **Prisma**
 - 💼 Linkedin - **https://www.linkedin.com/in/amit-mirgal/**
-- 📫 You can to reach me at : **amit.s.mirgal@gmail.com**
+- 📫 You can reach me at : **amit.s.mirgal@gmail.com**
 - ⚡ Fun fact: Soccer and travel
