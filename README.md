@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://github.com/AmitMirgal/AmitMirgal/blob/master/AM.jpg" alt="Amit Mirgal" height="auto" width="200">
+
 [![Linkedin badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logocolor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/amit-mirgal/)
 [![Twitter badge](https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=green&color=green)](https://twitter.com/amit_mirgal/)
 
