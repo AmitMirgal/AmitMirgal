@@ -9,6 +9,6 @@
 
 - 🔭  I’m currently working on web application using ReactJS.
 - 🌱  I’m currently learning **Prisma, nextjs, redwoodjs**
-- 💼  Side project - Building a food order-ahead platform
+- 💼  Side project - ⚡ Lightning subscribe
 - 📫  You can reach me at : **amit.s.mirgal@gmail.com**
-- ⚡   Fun fact: Soccer and travel
+- ⚽  Fun fact: Soccer and travel
