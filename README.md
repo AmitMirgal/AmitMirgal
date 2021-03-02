@@ -7,8 +7,8 @@
 
 **JamStack Developer** proficient in **Javascript, React, GraphQL and SQL**. Over the last 4 years, I have focused on software development, and admires the endless possibilities in innovation and efficiency created through technology. I continuously challenge to acquire the appropriate credentials, skills, and experiences as a Software Developer to excel in today’s dynamic technology industry.  
 
-- 🔭  I’m currently working on web application using ReactJS.
-- 🌱  I’m currently learning **Prisma, nextjs, redwoodjs**
-- 💼  Side project - ⚡ Lightning subscribe
-- 📫  You can reach me at : **amit.s.mirgal@gmail.com**
-- ⚽  Fun fact: Soccer and travel
+- 🔭  &nbsp; I’m currently working on web application using ReactJS.
+- 🌱  &nbsp; I’m currently learning **Prisma, nextjs, redwoodjs**
+- 💼  &nbsp; Side project - ⚡ Lightning subscribe⚡
+- 📫  &nbsp; You can reach me at : **amit.s.mirgal@gmail.com**
+- ⚽  &nbsp; Fun fact: Soccer and travel
