@@ -7,7 +7,7 @@
 
 **JamStack Developer** proficient in **Javascript, React, GraphQL and SQL**. Over the last 4 years, I have focused on software development, and admires the endless possibilities in innovation and efficiency created through technology. I continuously challenge to acquire the appropriate credentials, skills, and experiences as a Software Developer to excel in today’s dynamic technology industry.  
 
-- 💻  &nbsp; [Amit - JS Engineer](https://devmit-io.vercel.app/)
+- 💻  &nbsp; [Amit - JavaScript Engineer](https://devmit-io.vercel.app/)
 - 🔭  &nbsp; I’m currently working on web application using ReactJS.
 - 🌱  &nbsp; I’m currently learning **Prisma, nextjs, redwoodjs**
 - 💼  &nbsp; Side project - ⚡ Lightning subscribe⚡
