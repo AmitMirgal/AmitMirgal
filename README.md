@@ -9,7 +9,7 @@
 
 - 💻  &nbsp; [Amit Mirgal - JavaScript Engineer](https://devmit-io.vercel.app/)
 - 🔭  &nbsp; I’m currently working on web application using ReactJS
-- 🌱  &nbsp; I’m currently learning **Prisma, Nextjs, Redwoodjs**
+- 🌱  &nbsp; I’m currently learning **Prisma, Nextjs**
 - 💼  &nbsp; Side project - ⚡ Lightning subscribe⚡
 - 📫  &nbsp; You can reach me at : **amit.s.mirgal@gmail.com**
 - ⚽  &nbsp; Fun fact: Soccer and travel
