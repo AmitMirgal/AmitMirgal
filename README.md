@@ -10,6 +10,6 @@
 - 💻  &nbsp; [Amit Mirgal - JavaScript Engineer](https://devmit-io.vercel.app/)
 - 🔭  &nbsp; I’m currently working on web application using ReactJS
 - 🌱  &nbsp; I’m currently learning **Prisma, Nextjs, Rust**
-- 💼  &nbsp; Side project - ⚡ eatozee SaaS product ⚡
+- 💼  &nbsp; Side project - ⚡ eatozee is a DAO product that helps to amplify the business. It provides crypto payments, marketing using NFT, all the services you need to boost your business. ⚡
 - 📫  &nbsp; You can reach me at : **amit.s.mirgal@gmail.com**
 - ⚽  &nbsp; Fun fact: Soccer and travel
