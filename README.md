@@ -9,6 +9,6 @@
 
 - 🔭  &nbsp; I’m currently working on web application using ReactJS
 - 🌱  &nbsp; I’m currently learning **Prisma, Nextjs, Rust** 🦀 
-- 💼  &nbsp; Side project - ⚡ eatozee is a DAO product that helps to amplify the business. It provides crypto payments, marketing using NFT, all the services you need to boost your business. ⚡
+- 💼  &nbsp; Side project - ⚡ food delivery app. ⚡
 - 📫  &nbsp; You can reach me at : **amit.s.mirgal@gmail.com**
 - ⚽  &nbsp; Fun fact: Soccer, travel and I do have three 🐈 🐈 🐈
