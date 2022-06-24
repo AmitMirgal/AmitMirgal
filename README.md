@@ -6,7 +6,7 @@
 **Software Engineer** proficient in **Javascript, React**. Over the last 5 years, I have focused on software development, and admires the endless possibilities in innovation and efficiency created through technology. I continuously challenge to acquire the appropriate credentials, skills, and experiences as a Software Developer to excel in today’s dynamic technology industry.  
 
 - 🔭  &nbsp; I’m currently working on web application and CLIs using ReactJS/TS
-- 🌱  &nbsp; I’m currently learning **Prisma, Nextjs, Rust** 🦀 
+- 🌱  &nbsp; I’m currently learning **Prisma, RedwoodJS, Rust** 🦀 
 - 💼  &nbsp; Side project - ⚡ food delivery app ⚡
 - 📫  &nbsp; You can reach me at : **amit.s.mirgal@gmail.com**
 - ⚽  &nbsp; Fun fact: Soccer, travel and I do have three 🐈 🐈 🐈
