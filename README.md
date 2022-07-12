@@ -9,4 +9,4 @@
 - 🌱  &nbsp; I’m currently learning **Prisma, RedwoodJS, Rust** 🦀 
 - 💼  &nbsp; Side project - ⚡ next-gen food 🚗 platform ⚡
 - 📫  &nbsp; You can reach me at : **amit.s.mirgal@gmail.com**
-- ⚽  &nbsp; Fun fact: Soccer, and I do have three 🐈 🐈 🐈 🐈
+- ⚽  &nbsp; Fun fact: Soccer, and I do have four 🐈 🐈 🐈 🐈
