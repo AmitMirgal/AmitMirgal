@@ -8,5 +8,5 @@
 - 🔭  &nbsp; I’m currently working on web application and CLIs using React/JS/TS
 - 🌱  &nbsp; I’m currently learning **Prisma, RedwoodJS, Rust** 🦀 
 - 💼  &nbsp; Side project - ⚡ next-gen nftoupon 🎫 platform ⚡
-- 📫  &nbsp; You can reach me at : **amit.s.mirgal@gmail.com**
-- ⚽  &nbsp; Fun fact: Soccer, and I do have four 🐈 🐈 🐈 🐈
+- 📫  &nbsp; You can reach me at - **amit.s.mirgal@gmail.com**
+- ⚽  &nbsp; Fun fact - Soccer, and I do have four 🐈 🐈 🐈 🐈
