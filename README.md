@@ -7,5 +7,5 @@
 
 - 🔭  &nbsp; I’m currently working on web application and developer tools using React/JS/TS
 - 🌱  &nbsp; I’m currently learning **Prisma, Remix, Rust** 🦀 
-- 💼  &nbsp; Side project - next-gen digital assistant platform
+- 💼  &nbsp; Side project - next-gen nftvyapar platform 🛍️
 - ⚽  &nbsp; Fun fact - Soccer, and I do have four 🐈 🐈 🐈 🐈
