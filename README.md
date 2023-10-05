@@ -7,5 +7,5 @@
 
 - 🔭  &nbsp; I’m currently working on web application and developer tools using React/JS/TS
 - 🌱  &nbsp; I’m currently learning **Prisma, Remix, Rust** 🦀 
-- 💼  &nbsp; Side project - [Tapasom](https://tapasom.com) ~ marketing tool 🔱
+- 💼  &nbsp; Side project - [Tapasom](https://tapasom.com) ~ marketing platform 🔱
 - ⚽  &nbsp; Fun fact - Soccer, and I do have four 🐈 🐈 🐈 🐈
