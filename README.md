@@ -6,6 +6,6 @@
 **Software Engineer** proficient in **JavaScript, React**. Over the last 7 years, I've focused on software development, and admires the endless possibilities in innovation and efficiency created through technology. I continuously challenge to acquire the appropriate credentials, skills, and experiences as a Software Developer to excel in today’s dynamic technology industry.  
 
 - 🔭  &nbsp; I’m currently working on web application and developer tools using React/JS/TS
-- 🌱  &nbsp; I’m currently learning **Prisma, Remix, Rust** 🦀 
+- 🌱  &nbsp; I’m currently learning **Rust** 🦀 
 - 💼  &nbsp; Side project - [Tapasom](https://tapasom.com) ~ marketing platform 🔱
 - ⚽  &nbsp; Fun fact - Soccer, and I do have four 🐈 🐈 🐈 🐈
