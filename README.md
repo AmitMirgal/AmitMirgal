@@ -7,5 +7,5 @@
 
 - 🔭  &nbsp; I’m currently working on web application and developer tools using React/JS/TS 💻
 - 🌱  &nbsp; I’m currently learning **Rust** 🦀 
-- 💼  &nbsp; Side project - [Tapasom enable SMBs to connect with influencers](https://tapasom.com) ~ marketplace platform 🔱
+- 💼  &nbsp; Side project - [Tapasom enable SMBs to connect with influencers](https://tapasom.com) ~ influencer marketplace platform 🔱
 - ⚽  &nbsp; Fun fact - Soccer, and I do have four 🐈 🐈 🐈 🐈
