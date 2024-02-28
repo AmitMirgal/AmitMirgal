@@ -1,4 +1,4 @@
-### Hi there, I'm Amit 👋
+### Hi there, I'm Amit 👋🏽
 
 🇮🇳  &nbsp; Born in Mumbai, India <br>
 🇨🇦  &nbsp; Living in Ontario, Canada
