@@ -8,7 +8,6 @@
 - 🔭  &nbsp; I’m currently working on web application and developer tools using **React/JS/TS** 👨🏽‍💻
 - 🌱  &nbsp; I’m currently learning **Rust** 🦀
 - 🥭  &nbsp; The open source Lemon Squeezy Affiliate Program alternative - [mangosqueezy](https://github.com/tapasomlabs/mangosqueezy)
-- 💼  &nbsp; Side project - [Tapasom enable businesses to connect with influencers](https://tapasom.com) ~ Influencer marketplace platform 🔱
 
 ### Find me elsewhere 🌎
 
