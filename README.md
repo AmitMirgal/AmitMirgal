@@ -7,7 +7,7 @@
 
 - 🔭  &nbsp; I’m currently working on web application using **Remix/JS/TS/Supabase/Prisma** 👨🏽‍💻
 - 🌱  &nbsp; I’m currently learning **Rust** 🦀
-- 🥭  &nbsp; open-source crypto affiliate marketing platform - [mangosqueezy](https://github.com/tapasomlabs/mangosqueezy) 💰
+- 🥭  &nbsp; open-source crypto affiliate marketing tool - [mangosqueezy](https://github.com/tapasomlabs/mangosqueezy) 💰
 
 ### Find me elsewhere 🌎
 
