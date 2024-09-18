@@ -1,6 +1,6 @@
 ### Hi there, I'm Amit 👋🏽
 
-🤓  &nbsp; Frontend Engineer at [Camp Gladiator](https://campgladiator.com/) <br>
+🤓  &nbsp; Software Engineer at [Camp Gladiator](https://campgladiator.com/) <br>
 🇮🇳  &nbsp; Born in Mumbai, India <br>
 🇨🇦  &nbsp; Living in Ontario, Canada
 
