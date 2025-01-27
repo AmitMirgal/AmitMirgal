@@ -14,6 +14,6 @@
 
 🚀  &nbsp; [Site](https://tapasom.ai/amit) <br>
 🐦  &nbsp; [Twitter](https://twitter.com/amit_mirgal/) <br>
-🦋  &nbsp; [Bleusky](https://bsky.app/profile/amirgal.bsky.social) <br>
+🦋  &nbsp; [Bluesky](https://bsky.app/profile/amirgal.bsky.social) <br>
 💼  &nbsp; [LinkedIn](https://www.linkedin.com/in/amit-mirgal/)
 
