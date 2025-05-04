@@ -6,7 +6,7 @@
 
 **Software Engineer** proficient in **JavaScript, TypeScript, React**. Over the last 9 years, I've focused on software development, and admires the endless possibilities in innovation and efficiency created through technology. I continuously challenge to acquire the appropriate credentials, skills, and experiences as a Software Developer to excel in today’s dynamic technology industry.  
 
-- 🔭  &nbsp; I’m currently working on web application using **NextJS/Remix/JS/TS/Supabase/Prisma** 👨🏽‍💻
+- 🔭  &nbsp; I’m currently working on web application using **NextJS/JS/TS/Supabase/Prisma** 👨🏽‍💻
 - 🌱  &nbsp; I’m currently learning **React Native, Rust** 🦀
 - 🥭  &nbsp; open-source affiliate marketing tool - [mangosqueezy](https://github.com/tapasomlabs/mangosqueezy) 💰
 
