@@ -1,6 +1,6 @@
 ### Hi there, I'm Amit 👋🏽
 
-🤓  &nbsp; Software Engineer at [Camp Gladiator](https://campgladiator.com/) <br>
+🤓  &nbsp; Founding Engineer at [ThinkDTM](https://www.linkedin.com/company/thinkdtm/) <br>
 🇮🇳  &nbsp; Born in Mumbai, India <br>
 🇨🇦  &nbsp; Living in Ontario, Canada
 
