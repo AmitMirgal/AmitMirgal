@@ -8,7 +8,7 @@
 
 - 🔭  &nbsp; I’m currently working on web application using **NextJS/JS/TS/Supabase/Prisma** 👨🏽‍💻
 - 🌱  &nbsp; I’m currently learning **React Native, Rust** 🦀
-- 🥭  &nbsp; affiliate marketing tool - [mangosqueezy](https://mangosqueezy.com) 💰
+- 🥭  &nbsp; financial runway tool - [cluwise](https://cluwise.com) 💰
 
 ### Find me elsewhere 🌎
 
