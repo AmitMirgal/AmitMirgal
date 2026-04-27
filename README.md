@@ -1,6 +1,6 @@
 ### Hi there, I'm Amit 👋🏽
 
-🤓  &nbsp; Founding Engineer at [ThinkDTM](https://www.linkedin.com/company/thinkdtm/) <br>
+🤓  &nbsp; AI Engineer at [IKSHealth]([https://ikshealth.com/](https://ikshealth.com/)) <br>
 🇮🇳  &nbsp; Born in Mumbai, India <br>
 🇨🇦  &nbsp; Living in Ontario, Canada
 
