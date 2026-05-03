@@ -15,8 +15,7 @@ Beyond coding, I’ve taken ownership of product delivery and team growth — me
 I enjoy solving complex problems, building systems that last, and contributing at both the technical and product level.
 
 - 🔭  &nbsp; I’m currently working on web application using **NextJS/JS/TS/Supabase/Prisma**
-- 🌱  &nbsp; I’m currently learning **React Native, Rust**
-- 💰  &nbsp; financial runway tool - [cluwise](https://cluwise.com)
+- 🌱  &nbsp; I’m currently learning **Rust**
 
 ### Find me elsewhere 🌎
 
