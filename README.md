@@ -4,7 +4,7 @@
 🇮🇳  &nbsp; Born in Mumbai, India <br>
 🇨🇦  &nbsp; Living in Ontario, Canada
 
-I’m a **Founding Engineer** with experience building and scaling products from 0→1 in fast-paced startup environments.
+I’m a **Founding Engineer** with experience building and scaling products from 0 → 1 in fast-paced startup environments.
 
 I’ve led end-to-end development of core systems — from architecture and system design to production delivery — with a strong focus on reliability, performance, and scalability. I also led development of a core product that enabled early client acquisition and contributed to the company’s successful merger.
 
