@@ -1,8 +1,6 @@
 ### Hi there, I'm Amit 👋🏽
 
 🤓  &nbsp; AI Engineer at [IKSHealth](https://ikshealth.com/) <br>
-🇮🇳  &nbsp; Born in Mumbai, India <br>
-🇨🇦  &nbsp; Living in Ontario, Canada
 
 I’m a **Founding Engineer** with experience building and scaling products from 0 → 1 in fast-paced startup environments.
 
